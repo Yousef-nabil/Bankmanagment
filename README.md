@@ -136,8 +136,3 @@ Enter amount to withdraw: 500
 Withdrawal successful!
 New balance: 9500.54 $
 ```
-
-## Algorithms Used
-- **Search Algorithm**: Linear search for query and advanced search.
-- **Sort Algorithm**: Bubble sort or any other sorting algorithm for sorting accounts by name, balance, or date opened.
-
